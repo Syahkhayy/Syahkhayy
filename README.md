@@ -6,7 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syahkhayy&label=Profile%20views&color=00918f&style=plastic" alt="syahkhayy" /> </p>
 
-- 🌱 I’m currently learning **Website and Android Development**
+- 🏫 3rd Year student of **Software Engineering** in **National University of Malaysia** 
+
+- 🌱 I’m currently self-learning **Website and Android Development**
 
 - 📫 How to reach me **syahmi2001@gmail.com**
 
