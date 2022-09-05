@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syahkhayy&label=Profile%20views&color=00918f&style=plastic" alt="syahkhayy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syahkhayy" alt="syahkhayy" /></a> </p>
-
 - 🌱 I’m currently learning **Website and Android Development**
 
 - 📫 How to reach me **syahmi2001@gmail.com**
