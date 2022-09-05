@@ -1,7 +1,7 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Syahmi Khairul</h1>
 <h3 align="center">A passionate aspiring Software Developer in Malaysia</h3>
-<img align="right" alt="Coding" width="160" src="https://camo.githubusercontent.com/89233231dc8ba3dc5af6b979e9e3985ee8b9b70622d2ce686fc46c4a6706ea20/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313237322f312a5a53566d57476363317765454e6230536861775778772e676966">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/89233231dc8ba3dc5af6b979e9e3985ee8b9b70622d2ce686fc46c4a6706ea20/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313237322f312a5a53566d57476363317765454e6230536861775778772e676966">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syahkhayy&label=Profile%20views&color=00918f&style=plastic" alt="syahkhayy" /> </p>
