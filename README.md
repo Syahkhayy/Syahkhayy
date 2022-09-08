@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently self-learning **Website and Android Development**
 
-- 📫 How to reach me **syahmi2001@gmail.com**
+- 👨‍💻 All of my projects are available at <a href="https://syahkhayy.github.io/landing-page/" target="blank">**My Landing Page**</a>
 
-- 👨‍💻 All of my projects are available at [https://syahkhayy.github.io/landing-page/](https://syahkhayy.github.io/landing-page/)
+- 📫 How to reach me **syahmi2001@gmail.com**
 
 - ⚡ Fun fact **Volleyball is my thing, as i believe in stronger mind come from stronger body**
 
