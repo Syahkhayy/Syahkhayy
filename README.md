@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **syahmi2001@gmail.com**
 
+- 👨‍💻 All of my projects are available at [https://syahkhayy.github.io/landing-page/](https://syahkhayy.github.io/landing-page/)
+
 - ⚡ Fun fact **Volleyball is my thing, as i believe in stronger mind come from stronger body**
 
 <h3 align="left">Connect with me:</h3>
