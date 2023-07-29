@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently self-learning **Website and Android Development**
 
-- 👨‍💻 All of my projects are available at <a href="https://syahkhayy.github.io/landing-page/" target="_blank">**My Landing Page**</a>
+- 👨‍💻 All of my projects are available at <a href="https://syahkhayy.github.io/SyahDev-Mini-Portfolio/" target="_blank">**My Landing Page**</a>
 
 - 📫 How to reach me **syahmi2001@gmail.com**
 
